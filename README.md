@@ -14,33 +14,45 @@
 
 ### 成果展示
 
-学生->登录 输入图片说明
+学生->登录
+<img width="1903" height="980" alt="登录" src="https://github.com/user-attachments/assets/c83e7319-01e4-458b-8414-dc0639f4e622" />
 
-学生->注册 输入图片说明
+学生->注册
+<img width="1906" height="964" alt="注册" src="https://github.com/user-attachments/assets/e62233cb-cb5e-47a5-bc98-9a472802f9a7" />
 
-学生->主页 输入图片说明
+学生->主页
+<img width="1905" height="1027" alt="学生-主页" src="https://github.com/user-attachments/assets/6a403506-9c35-4f00-8aa7-6b26b8463cdc" />
 
-学生->讨论管理 输入图片说明
+学生->讨论管理
+<img width="1905" height="1021" alt="学生-讨论管理" src="https://github.com/user-attachments/assets/e206a8ca-c3f3-4ac6-b432-f045066481b0" />
 
-学生->讨论详情 输入图片说明
+学生->讨论详情
+<img width="1898" height="1026" alt="学生-讨论详情" src="https://github.com/user-attachments/assets/85684683-a0f0-4e69-a50e-bfe4bc4bd4cb" />
 
-学生->试卷中心 输入图片说明
+学生->试卷中心
+<img width="1904" height="1027" alt="学生-试卷中心" src="https://github.com/user-attachments/assets/59def748-849a-4ea7-9d60-06e761fc6d62" />
 
-学生->开始考试 输入图片说明
+学生->开始考试
+<img width="1878" height="1008" alt="学生-开始考试" src="https://github.com/user-attachments/assets/13f3f1f3-95f8-4db1-a785-c11cfca4c1a4" />
 
-学生->交卷 输入图片说明
+学生->交卷
+<img width="1901" height="1022" alt="学生-交卷" src="https://github.com/user-attachments/assets/1c013e41-9218-427f-a419-675413c32220" />
 
-学生->刷题中心 输入图片说明
+学生->刷题中心
+<img width="1908" height="1030" alt="学生-刷题中心" src="https://github.com/user-attachments/assets/8b0e13c8-6869-4c16-ab2c-80a85235c421" />
 
-学生->开始刷题 输入图片说明
+学生->开始刷题
+<img width="1873" height="1006" alt="学生-开始刷题" src="https://github.com/user-attachments/assets/5b38c423-0a6e-4cb6-a9fa-39a994017f21" />
 
-学生->结束刷题 输入图片说明
+学生->结束刷题
+<img width="1882" height="1022" alt="学生-结束刷题" src="https://github.com/user-attachments/assets/0416d7a4-48e7-445c-890e-223c2082eaf6" />
 
-学生->考试记录 输入图片说明
+学生->考试记录
+<img width="1902" height="1030" alt="学生-考试记录" src="https://github.com/user-attachments/assets/528feb46-690e-4857-b565-526fb1e30cea" />
 
-输入图片说明
+<img width="1874" height="1031" alt="学生-考试记录2" src="https://github.com/user-attachments/assets/51bd384c-e825-4419-a78c-3b7874b34738" />
 
-学生->错题本 输入图片说明
+学生->错题本
 
 学生->我的证书 输入图片说明
 
