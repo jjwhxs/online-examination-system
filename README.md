@@ -53,36 +53,52 @@
 <img width="1874" height="1031" alt="学生-考试记录2" src="https://github.com/user-attachments/assets/51bd384c-e825-4419-a78c-3b7874b34738" />
 
 学生->错题本
+<img width="1902" height="1027" alt="学生-错题本" src="https://github.com/user-attachments/assets/8415f473-3acc-4dd2-a63a-59c526473fdb" />
 
-学生->我的证书 输入图片说明
+学生->我的证书
+<img width="1896" height="1032" alt="学生-我的证书" src="https://github.com/user-attachments/assets/86f648f4-5211-4873-94a2-fde3da1fb295" />
 
-学生->证书预览 输入图片说明
+学生->证书预览
+<img width="1882" height="1027" alt="学生-预览证书" src="https://github.com/user-attachments/assets/99e32efc-28c1-4d92-9c79-dce6c6985f9c" />
 
-教师->主页 输入图片说明
+教师->主页
+<img width="1897" height="1026" alt="教师-主页" src="https://github.com/user-attachments/assets/f22241e0-df97-4624-bb17-8e58f76e44c5" />
 
-教师->用户管理 输入图片说明
+教师->用户管理
+<img width="1892" height="1027" alt="教师-用户管理" src="https://github.com/user-attachments/assets/0047c898-a089-4f6d-b8fe-0e3207f6e4ed" />
 
-教师->班级管理 输入图片说明
+教师->班级管理
+<img width="1897" height="1030" alt="教师-班级管理" src="https://github.com/user-attachments/assets/fe86aabd-695b-4362-aa07-9d3c793f8721" />
 
-教师->讨论管理 输入图片说明
+教师->讨论管理
+<img width="1907" height="1027" alt="教师-讨论管理" src="https://github.com/user-attachments/assets/f2a1dd67-1626-4e9c-8b46-d1be320b7f1b" />
 
-教师->考试管理 输入图片说明
+教师->考试管理
+<img width="1893" height="1030" alt="教师-考试管理" src="https://github.com/user-attachments/assets/0931c0ec-5068-4472-8945-b7d8cd7b8977" />
 
-教师->题库管理 输入图片说明
+教师->题库管理
+<img width="1898" height="1027" alt="教师-题库管理" src="https://github.com/user-attachments/assets/c78141d1-6de0-44f9-9b34-0dae3ea0bba1" />
 
-教师->试题管理 输入图片说明
+教师->试题管理
+<img width="1897" height="1032" alt="教师-试题管理" src="https://github.com/user-attachments/assets/f261e596-6fd1-40a2-8535-da5e1977b528" />
 
-教师->成绩分析 输入图片说明
+教师->成绩分析
+<img width="1892" height="1030" alt="教师-成绩分析" src="https://github.com/user-attachments/assets/6a1049d6-468d-4840-b745-76273d2aebea" />
 
-管理员->主页 输入图片说明
+管理员->主页
+<img width="1892" height="1027" alt="管理员-主页" src="https://github.com/user-attachments/assets/1ae5c97c-202e-40ee-b732-c9a61b96956b" />
 
-管理员->用户管理 输入图片说明
+管理员->用户管理
+<img width="1897" height="1023" alt="管理员-用户管理" src="https://github.com/user-attachments/assets/0b70fe9a-66b3-4b8f-8d25-8ea97341794a" />
 
-管理员->班级管理 输入图片说明
+管理员->班级管理
+<img width="1897" height="1025" alt="管理员-班级管理" src="https://github.com/user-attachments/assets/623a98f0-9100-4e11-99a1-f7e3f0007405" />
 
-管理员->证书管理 输入图片说明
+管理员->证书管理
+<img width="1892" height="1026" alt="管理员-证书管理" src="https://github.com/user-attachments/assets/18aae791-8bad-442b-87f9-17654f84aabb" />
 
-管理员->公告管理 输入图片说明
+管理员->公告管理
+<img width="1898" height="1030" alt="管理员-公告管理" src="https://github.com/user-attachments/assets/17c2336e-f22c-4a54-afb2-35cef02b34ed" />
 
 ### 源码展示
 
@@ -255,11 +271,11 @@ public Result<List<ExamRecordDetailVO>> details(@PathVariable("examId") @NotNull
 
 3、目录结构展示
 
-输入图片说明
+<img width="592" height="143" alt="结构" src="https://github.com/user-attachments/assets/d2226903-b76f-433b-8ea3-aa41a0ae791d" />
 
 4、项目结构展示
 
-输入图片说明
+<img width="1505" height="832" alt="项目结构目录" src="https://github.com/user-attachments/assets/36379d2d-3edc-41d1-8bc8-05cd77341748" />
 
 5、运行步骤
 
@@ -275,6 +291,6 @@ public Result<List<ExamRecordDetailVO>> details(@PathVariable("examId") @NotNull
 
 访问链接(在浏览器中手动输入下图中的地址)：
 
-输入图片说明
+<img width="1144" height="126" alt="链接" src="https://github.com/user-attachments/assets/fc1976e9-b6e1-4946-83a9-29a5663b51c4" />
 
 若资源获取失败，可添加happy35596339(vx)或1204901965(qq)进行交流
