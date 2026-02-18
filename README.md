@@ -289,8 +289,6 @@ public Result<List<ExamRecordDetailVO>> details(@PathVariable("examId") @NotNull
 
 ### 获取方式(可远程调试)
 
-访问链接(在浏览器中手动输入下图中的地址)：
-
-<img width="1144" height="126" alt="链接" src="https://github.com/user-attachments/assets/fc1976e9-b6e1-4946-83a9-29a5663b51c4" />
+访问链接：https://mbd.pub/o/bread/mbd-YZWXl5xuZA==
 
 若资源获取失败，可添加happy35596339(vx)或2061772307(qq)进行交流
